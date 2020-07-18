@@ -18,9 +18,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 </style>
 <body class="w3-dark-grey">
 
-<!-- Icon Bar (Sidebar - hidden on small screens) -->
 <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
-  <!-- Avatar image in top left corner -->
   <img src="kalebpic2.jpg" style="width:100%">
  
   <a href="#home" class="w3-bar-item w3-button w3-padding-small
